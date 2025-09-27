@@ -59,14 +59,5 @@ Um aplicativo desktop que atualiza automaticamente os preços de produtos com ba
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
-## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## ✉️ Contato
-
-Se tiver alguma dúvida ou sugestão, entre em contato!
-
----
-
-Desenvolvido com ❤️ por [Seu Nome]
