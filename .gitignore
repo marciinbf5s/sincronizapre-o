@@ -1,0 +1,11 @@
+.venv
+logs.txt
+__pycache__
+*.pyc
+.eggs
+reserva
+app.py
+goldtracker.spec
+__init__.py
+dist
+build
