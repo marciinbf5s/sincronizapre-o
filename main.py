@@ -1,6 +1,5 @@
 import re
 import time
-import threading
 import traceback
 from datetime import datetime
 from bs4 import BeautifulSoup
